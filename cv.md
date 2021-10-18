@@ -1,4 +1,4 @@
-![This is a alt text.](/image/sample.png "This is a sample image.")
+![This is a alt text.](https://raw.githubusercontent.com/PhileasVILLETTE/CV/main/phileas_villette.JPG "This is a sample image.")
 ## Présentation
 Je m'appelle Philéas Villette, j'ai 19 ans et je suis étudiant en première année à la Normandie Web School.
 Vous trouverez ci-dessous mon CV ainsi que mon mail, téléphone et Linkedin.
