@@ -1,17 +1,55 @@
-# Présentation
+![This is a alt text.](/image/sample.png "This is a sample image.")
+## Présentation
+Je m'appelle Philéas Villette, j'ai 19 ans et je suis étudiant en première année à la Normandie Web School.
+Vous trouverez ci-dessous mon CV ainsi que mon mail, téléphone et Linkedin.
 
-# Recherche
+# CV
 
-# Etudes
+## Recherche
 
-# Expériences professionnelles
+## Etudes
+- 2021-2022 : Développement web, web design
+et web marketing en deuxième première année (Normandie Web School)
+- 2020-2021 : Développement web, web design
+et web marketing en première année (Normandie Web School)
+- 2017-2020 : Lycée (Institution Jean-Paul II)
 
-# Compétences
+## Expériences professionnelles
+- Mai-Juin 2021 : stage de création graphique dans l'association N'Connect
+- Novembre 2018 : stage d’observation de développement
+front-end et back-end à BearStudio
+- Janvier 2017 : stage d’observation à Aximum Produits de Marquage
 
-# Projets d'école
+## Compétences
+* HTML
+* CSS
+* WordPress 
+* Adobe Illustrator
+* Adobe XD
+* Adobe Indesign 
+* GitHub
+* Anglais
+* Espagnol
 
-# Dîplomes
+## Projets
+* Faire sa marque personnelle
+* Créer une association
 
-# Centres d'intérets
+## Dîplomes
+* Bac Scientifique
+* ASSR 1
+* Brevet de secourisme
+* BAFA 1
 
-# Me contacter
+## Centres d'intérets
+* Rétrogaming (consoles)
+* Dessin (manga)
+* Uchronies
+* Histoire
+* Maquettisme
+## Me contacter
+* Mail
+* Téléphone
+* LinkedIn
+* Twitter
+* FaceBook
