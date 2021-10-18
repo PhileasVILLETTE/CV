@@ -8,10 +8,8 @@ Vous trouverez ci-dessous mon CV ainsi que mon mail, téléphone et Linkedin.
 ## Recherche
 
 ## Etudes
-- 2021-2022 : Développement web, web design
-et web marketing en deuxième première année (Normandie Web School)
-- 2020-2021 : Développement web, web design
-et web marketing en première année (Normandie Web School)
+- 2021-2022 : chef de projet digital en deuxième première année (Normandie Web School)
+- 2020-2021 : chef de projet digital en première année (Normandie Web School)
 - 2017-2020 : Lycée (Institution Jean-Paul II)
 
 ## Expériences professionnelles
@@ -49,8 +47,8 @@ front-end et back-end à BearStudio
 * Histoire
 * Maquettisme
 ## Me contacter
-* Mail
-* Téléphone
-* LinkedIn
-* Twitter
-* FaceBook
+* Mail : pvillette.pro@laposte.net
+* Téléphone : 07 82 21 97 92
+* LinkedIn : https://www.linkedin.com/in/phil%C3%A9as-villette-bb19411bb/
+* Twitter : https://twitter.com/VillettePhileas
+* FaceBook : https://www.facebook.com/profile.php?id=100074001848680
