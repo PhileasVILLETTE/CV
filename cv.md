@@ -26,7 +26,7 @@ front-end et back-end à BearStudio
 * Adobe XD 3/5
 * Adobe Indesign 4/5
 * Adobe Première Pro 3/5
-* GitHub 1/5
+* GitHub 2/5
 * Anglais 4/5
 * Espagnol 2/5
 
