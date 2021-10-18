@@ -21,15 +21,16 @@ front-end et back-end à BearStudio
 - Janvier 2017 : stage d’observation à Aximum Produits de Marquage
 
 ## Compétences
-* HTML
-* CSS
-* WordPress 
-* Adobe Illustrator
-* Adobe XD
-* Adobe Indesign 
-* GitHub
-* Anglais
-* Espagnol
+* HTML 4/5
+* CSS 3/5
+* WordPress 3/5
+* Adobe Illustrator 4/5
+* Adobe XD 3/5
+* Adobe Indesign 4/5
+* Adobe Première Pro 3/5
+* GitHub 1/5
+* Anglais 4/5
+* Espagnol 2/5
 
 ## Projets
 * Faire sa marque personnelle
